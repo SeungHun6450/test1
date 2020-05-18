@@ -10,7 +10,7 @@ public class Test {
 
 		System.out.println("XXXXXXXXXX");
 
-		System.out.println("ZZZZZZZZZZZ"); 
+		System.out.println("AAAAAAAAAAA"); 
 
 	}
 
